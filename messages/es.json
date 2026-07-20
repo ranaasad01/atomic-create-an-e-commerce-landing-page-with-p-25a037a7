@@ -1,1 +1,86 @@
-{}
+{
+  "nav": {
+    "brand": "NovaThreads",
+    "home": "Inicio",
+    "shop": "Tienda",
+    "categories": "Categorías",
+    "sale": "Rebajas",
+    "newsletter": "Boletín",
+    "cta": "Comprar Ahora",
+    "cart_label": "Ver carrito de compras",
+    "menu_toggle": "Alternar menú de navegación"
+  },
+  "footer": {
+    "tagline": "Moda audaz para personas que se mueven rápido. Diseñado para las calles, construido para durar.",
+    "shop_title": "Tienda",
+    "new_arrivals": "Nuevos Productos",
+    "best_sellers": "Más Vendidos",
+    "sale": "Rebajas",
+    "all_products": "Todos los Productos",
+    "help_title": "Ayuda",
+    "shipping": "Envío y Entrega",
+    "returns": "Devoluciones e Intercambios",
+    "size_guide": "Guía de Tallas",
+    "contact": "Contáctanos",
+    "company_title": "Empresa",
+    "about": "Acerca de NovaThreads",
+    "sustainability": "Sostenibilidad",
+    "careers": "Carreras",
+    "press": "Prensa",
+    "instagram_label": "Síguenos en Instagram",
+    "twitter_label": "Síguenos en Twitter",
+    "pinterest_label": "Síguenos en Pinterest",
+    "copyright": "© 2025 NovaThreads. Todos los derechos reservados.",
+    "privacy": "Política de Privacidad",
+    "terms": "Términos de Servicio"
+  },
+  "hero": {
+    "badge": "Nuevos Productos",
+    "headline_1": "Descubre Tu",
+    "headline_accent": "Hoy",
+    "headline_2": "Estilo Perfecto",
+    "subtext": "Explora nuestra selección cuidadosamente elegida de productos premium diseñados para la vida moderna.",
+    "cta_primary": "Comprar Nuevos Productos",
+    "cta_secondary": "Ver Lookbook",
+    "social_proof": "Confiado por más de 50K clientes",
+    "image_alt": "Escaparate de la colección de verano",
+    "card_title": "Colección de Verano",
+    "card_sub": "Seleccionado para ti",
+    "float_badge": "Tiempo Limitado"
+  },
+  "categories": {
+    "eyebrow": "Comprar por Categoría",
+    "heading": "Comprar por Categoría",
+    "items_label": "artículos"
+  },
+  "products": {
+    "heading": "Productos Destacados",
+    "eyebrow": "Productos Destacados",
+    "view_all": "Ver Todo",
+    "empty": "No se encontraron productos. Intenta ajustar tus filtros."
+  },
+  "product": {
+    "add_to_cart": "Agregar al Carrito",
+    "wishlist_label": "Guardar para después"
+  },
+  "sale": {
+    "badge": "Venta Relámpago",
+    "heading": "Hasta 50% de Descuento",
+    "subtext": "Termina en 24 horas. No te pierdas estas ofertas increíbles.",
+    "off_label": "descuento",
+    "cta": "Comprar Ahora"
+  },
+  "testimonials": {
+    "eyebrow": "Amor del Cliente",
+    "heading": "Amado por Nuestra Comunidad"
+  },
+  "newsletter": {
+    "badge": "Mantente Actualizado",
+    "heading": "Acceso Exclusivo a Cada Lanzamiento",
+    "subtext": "Recibe ofertas exclusivas y nuevos artículos directamente en tu bandeja de entrada.",
+    "placeholder": "Ingresa tu dirección de correo electrónico",
+    "cta": "Reclamar Mi 10% de Descuento",
+    "success": "¡Estás dentro! Revisa tu bandeja de entrada para tu código de 10% de descuento.",
+    "disclaimer": "Respetamos tu privacidad. Desuscribirse en cualquier momento."
+  }
+}

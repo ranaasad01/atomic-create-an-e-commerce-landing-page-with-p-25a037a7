@@ -1,1 +1,126 @@
-{}
+{
+  "nav": {
+    "brand": "NovaThreads",
+    "home": "Home",
+    "shop": "Shop",
+    "categories": "Categories",
+    "sale": "Sale",
+    "newsletter": "Newsletter",
+    "cta": "Shop Now",
+    "cart_label": "View shopping cart",
+    "menu_toggle": "Toggle navigation menu"
+  },
+  "footer": {
+    "tagline": "Bold fashion for people who move fast. Designed for the streets, built to last.",
+    "shop_title": "Shop",
+    "new_arrivals": "New Arrivals",
+    "best_sellers": "Best Sellers",
+    "sale": "Sale",
+    "all_products": "All Products",
+    "help_title": "Help",
+    "shipping": "Shipping & Delivery",
+    "returns": "Returns & Exchanges",
+    "size_guide": "Size Guide",
+    "contact": "Contact Us",
+    "company_title": "Company",
+    "about": "About NovaThreads",
+    "sustainability": "Sustainability",
+    "careers": "Careers",
+    "press": "Press",
+    "instagram_label": "Follow NovaThreads on Instagram",
+    "twitter_label": "Follow NovaThreads on Twitter",
+    "pinterest_label": "Follow NovaThreads on Pinterest",
+    "copyright": "© 2025 NovaThreads. All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  },
+  "hero": {
+    "badge": "New Arrivals",
+    "headline_1": "Discover Your",
+    "headline_accent": "Today",
+    "headline_2": "Perfect Style",
+    "subtext": "Explore our handpicked selection of premium products designed for modern living.",
+    "cta_primary": "Shop New Arrivals",
+    "cta_secondary": "View Lookbook",
+    "social_proof": "Trusted by 50K+ customers",
+    "image_alt": "Summer collection showcase",
+    "card_title": "Summer Collection",
+    "card_sub": "Curated for you",
+    "float_badge": "Limited Time"
+  },
+  "stats": {
+    "items": [
+      {
+        "value": "120K+",
+        "label": "Happy Customers"
+      },
+      {
+        "value": "4.8",
+        "label": "Average Rating"
+      },
+      {
+        "value": "98%",
+        "label": "Satisfaction Rate"
+      },
+      {
+        "value": "48hr",
+        "label": "Avg. Delivery"
+      }
+    ]
+  },
+  "value": {
+    "items": [
+      {
+        "title": "Free Shipping Over $75",
+        "desc": "Fast, tracked delivery on every qualifying order. No surprises at checkout."
+      },
+      {
+        "title": "30-Day Free Returns",
+        "desc": "Changed your mind? Send it back within 30 days, no questions asked."
+      },
+      {
+        "title": "Quality Guaranteed",
+        "desc": "Every piece is tested for durability, fit, and finish before it ships."
+      },
+      {
+        "title": "Sustainable Packaging",
+        "desc": "100% recycled and compostable packaging on every order we send."
+      }
+    ]
+  },
+  "categories": {
+    "eyebrow": "Shop by Category",
+    "heading": "Shop by Category",
+    "items_label": "items"
+  },
+  "products": {
+    "heading": "Featured Products",
+    "eyebrow": "Featured Products",
+    "view_all": "View All",
+    "empty": "No products found. Try adjusting your filters."
+  },
+  "product": {
+    "add_to_cart": "Add to Cart",
+    "wishlist_label": "Save for later"
+  },
+  "sale": {
+    "badge": "Flash Sale",
+    "heading": "Up to 50% Off",
+    "subtext": "Ends in 24 hours. Don't miss out on these incredible deals.",
+    "off_label": "off",
+    "cta": "Shop Now"
+  },
+  "testimonials": {
+    "eyebrow": "Customer Love",
+    "heading": "Loved by Our Community"
+  },
+  "newsletter": {
+    "badge": "Stay Updated",
+    "heading": "Get First Access to Every Drop",
+    "subtext": "Get exclusive offers and new arrivals straight to your inbox.",
+    "placeholder": "Enter your email address",
+    "cta": "Claim My 10% Off",
+    "success": "You're in! Check your inbox for your 10% off code.",
+    "disclaimer": "We respect your privacy. Unsubscribe anytime."
+  }
+}
